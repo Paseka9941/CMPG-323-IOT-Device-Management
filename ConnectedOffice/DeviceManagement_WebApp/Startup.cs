@@ -22,6 +22,7 @@ namespace DeviceManagement_WebApp
         {
             Configuration = configuration;
         }
+         
 
         public IConfiguration Configuration { get; }
 
